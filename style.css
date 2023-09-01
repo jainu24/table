@@ -1,0 +1,18 @@
+table{
+
+    border: 2px solid black;
+    border-collapse: collapse;
+    position: relative;
+    margin-top: 120px;
+    left: 20rem;
+    right: 50rem;
+    
+    
+}
+td{
+    border: 2px solid black;
+   
+}
+th{
+    border: 2px solid black;
+}
